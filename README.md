@@ -11,12 +11,14 @@ The program takes multiple sets of inputs, performs the corresponding operation 
 - **Rotation (`r`)**: Rotates a string by a given number of positions and removes leading zeros if any.
 
 # Function description
+
 - **concatenate()**: This function concatenates two strings and prints the result.
 - **addNumbers()**: Adds two large numbers represented as strings and prints the sum.
 - **rotate()**: Rotates a string by the specified number of positions.
 - **main()**: Takes inputs, determines the operation to be performed, and invokes the respective function.
 
 # How It Works
+
 1. The user first provides the number of operations to be performed.
 2. For each operation:
    - The user inputs two strings and an operator.
